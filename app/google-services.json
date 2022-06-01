@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799698915523",
+    "firebase_url": "https://lofty-proton-343813-default-rtdb.firebaseio.com/",
+    "project_id": "lofty-proton-343813",
+    "storage_bucket": "lofty-proton-343813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799698915523:android:6b2c6721872e5215ef5276",
+        "android_client_info": {
+          "package_name": "com.example.crudapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799698915523-5tp40m0u516ak41403rc4fm7aj9fthbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFQk-YlCnYLO3f7yxXp8175je8JIomKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799698915523-5tp40m0u516ak41403rc4fm7aj9fthbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
